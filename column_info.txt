@@ -1,0 +1,16 @@
+RA_606: right ascension in degrees from F606W image
+DEC_606: declination in degrees from F606W image
+STMAG_606: OBSERVED (non-reddening corrected) F606W magnitude in the STMAG system
+MAGERR_606: DAOPHOT magnitude error
+X_606: x-pixel position in drizzled F606W image
+Y_606: y-pixel position in drizzled F606W image
+CHI_606: DAOPHOT CHI value from F606W image
+SHARP_606: DAOPHOT SHARP value from F606W image
+RA_814: right ascension in degrees from F814W image
+DEC_814: declination in degrees from F814W image
+STMAG_814: OBSERVED (non-reddening corrected) F814W magnitude in the STMAG system
+MAGERR_814: DAOPHOT magnitude error
+X_814: x-pixel position in drizzled F814W image
+Y_814: y-pixel position in drizzled F814W image
+CHI_814: DAOPHOT CHI value from F814W image
+SHARP_814: DAOPHOT SHARP value from F814W image
