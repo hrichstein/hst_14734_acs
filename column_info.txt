@@ -14,4 +14,5 @@ X_814: x-pixel position in drizzled F814W image
 Y_814: y-pixel position in drizzled F814W image
 CHI_814: DAOPHOT CHI value from F814W image
 SHARP_814: DAOPHOT SHARP value from F814W image
-FLAG_814: Source quality estimator (based on information from BOTH filters); on a scale from 0 to 1, with source quality increasing towards 1
+FLAG_814: Source quality estimator (based on information from BOTH filters); 
+on a scale from 0 to 1, with source quality increasing towards 1
